@@ -7,15 +7,15 @@ ExpressVPN is one of the most trusted VPN services for protecting online privacy
 
 Why ExpressVPN Is Not Connecting
 ================================
-.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
  
    :width: 200px
  
    :align: center
  
-   :target: https://aclogportal.net/
+   :target: https://tek.chat
  
-   :alt: Login Now Button
+   :alt: SUPPORT
 
 There are several possible reasons why ExpressVPN cannot establish a connection.
 
