@@ -11,9 +11,9 @@ ExpressVPN is one of the most trusted VPN services for protecting online privacy
  
    :align: center
  
-   :target: https://tek.chat
+   :target: https://tek.chat/
  
-   :alt: Login Now Button
+   :alt: SUPPORT
 
 Why ExpressVPN Is Not Connecting
 ================================
