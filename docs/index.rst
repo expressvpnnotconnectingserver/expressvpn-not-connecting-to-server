@@ -5,18 +5,17 @@ How to Fix ExpressVPN Not Connecting to Server
 
 ExpressVPN is one of the most trusted VPN services for protecting online privacy and accessing content securely. However, there are times when the application may fail to connect to a server. This issue can prevent you from browsing the internet securely or accessing location-specific content. Fortunately, most connection problems can be resolved with a few simple troubleshooting methods.
 
-.. image:: https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+Why ExpressVPN Is Not Connecting
+================================
+.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
  
    :width: 200px
  
    :align: center
  
-   :target: https://tek.chat/
+   :target: https://aclogportal.net/
  
-   :alt: SUPPORT
-
-Why ExpressVPN Is Not Connecting
-================================
+   :alt: Login Now Button
 
 There are several possible reasons why ExpressVPN cannot establish a connection.
 
